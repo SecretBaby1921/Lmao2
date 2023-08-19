@@ -667,7 +667,7 @@ function library:CreateWindow(name, version, icon)
 
 				Label.Name = "Label"
 				Label.Parent = SectionContainer
-				Label.BackgroundColor3 = Color3.fromRGB(56, 8, 8)
+				Label.BackgroundColor3 = Color3.fromRGB(46, 2, 2)
 				Label.BackgroundTransparency = 0.500
 				Label.Size = UDim2.new(1, 0, 0, 24)
 
